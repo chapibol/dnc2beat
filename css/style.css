@@ -36259,3 +36259,9 @@ html[class*="ie"] .dtp-hand, html[class*="ie"] .dtp-hour-hand {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/**Custom CSS**/
+
+.banner-paragraph {
+    color: white
+}
