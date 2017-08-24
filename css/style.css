@@ -36265,3 +36265,7 @@ html[class*="ie"] .dtp-hand, html[class*="ie"] .dtp-hour-hand {
 .banner-paragraph {
     color: white
 }
+
+.rd-navbar-brand {
+    margin-bottom: 10px;
+}
